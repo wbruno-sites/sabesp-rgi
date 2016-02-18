@@ -1,0 +1,16 @@
+{
+  "name": "rgi-sabesp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sabesp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William B. <wbrunom@gmail.com> (http://wbruno.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0",
+    "requestify": "^0.1.17"
+  }
+}

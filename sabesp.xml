@@ -1,0 +1,171 @@
+<updates><update address="frmhome:conteudo" tag="div"><attribute name="class"><![CDATA[icePnlGrp contaContent
+]]></attribute><attribute name="id"><![CDATA[frmhome:conteudo]]></attribute><content><![CDATA[<h1>Hist
+&oacute;rico de consumo</h1><div class="icePnlGrp" id="frmhome:j_id126"><div class="icePnlGrp mensagem
+ msgInfo" id="frmhome:j_id127"><p>Confira os dados de seu imóvel.</p></div></div><input id="paginaAtual"
+ type="hidden" value="pesquisargi" /><input id="paginaAtual" type="hidden" value="pesquisargi" /><div
+ class="icePnlGrp boxrgiresultado" id="frmhome:j_id148" style="margin-bottom: 5px!important;"><div class
+="icePnlGrp boxrgiresultadopesquisa" id="frmhome:j_id149"><input id="paginaAtual" type="hidden" value
+="pesquisargi" /><table height="100%" width="100%"><tr><td valign="middle"><table border="0" class="icePnlGrd"
+ id="frmhome:j_id153"><tbody><tr class="icePnlGrdRow1"><td class="icePnlGrdCol1" id="frmhome:j_id153-0-0"
+><span class="fontBold" id="frmhome:j_id155" title="N&uacute;mero do RGI">RGI:</span>
+ 2421964/97</td></tr>
+<tr class="icePnlGrdRow2"><td class="icePnlGrdCol1" id="frmhome:j_id153-1-0"><span class="fontBold" id
+="frmhome:j_id161" title="Rua:">Rua:</span>
+ R PDE JACOME DE QUEIROZ, 212  - JD JOAO XXIII</td></tr>
+<tr class="icePnlGrdRow1"><td class="icePnlGrdCol1" id="frmhome:j_id153-2-0"><span class="fontBold" id
+="frmhome:j_id164" title="Munic&iacute;pio:">Munic&iacute;pio:</span>
+ SAO PAULO</td></tr></tbody></table></td></tr></table></div>
+<div class="icePnlGrp boxrgipesquisa" id="frmhome:j_id166"><span class="iceOutTxt" id="frmhome:j_id167"
+ style="font-size: 12px;"><h2 style="font-size:15px!important;font-family: Tahoma!important;">Nova pesquisa
+</h2>
+<div class="icePnlGrp" id="frmhome:j_id170"><div class="icePnlGrp label_confirmaRgi" id="frmhome:j_id171"
+>RGI:</div>
+<div class="icePnlGrp input_confirmaRgi" id="frmhome:j_id173"><input class="iceInpTxt rgiparte1" id="frmhome
+:rgi1" maxlength="11" name="frmhome:rgi1" onblur="return mascaraRgiColar(this);setFocus(&#39;&#39;);iceSubmitPartial
+(form, this, event);" onfocus="setFocus(this.id);" onkeypress="iceSubmit(form,this,event);" onkeyup="return
+ mascaraRgi(this, event); javascript:onTrocaFoco(&#39;frmhome:rgi1&#39;,&#39;frmhome:rgi2&#39;,&#39;10
+&#39;);" onmousedown="this.focus();" onmouseout="return mascaraRgiColar(this);" title="N&uacute;mero
+ do RGI" type="text" value="" /></div></div></span>
+<BR /><BR /><div class="icePnlGrp botoes" id="frmhome:j_id176"><span class="iceOutTxt botoesSpan" id
+="frmhome:j_id177"><ul><li class="claro"><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id180"
+ onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo&#39;);var form=formOf
+(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id180&#39;;return iceSubmit(form,this,event
+);" onfocus="setFocus(this.id);" title="Pesquisar RGI"><b><span>PESQUISAR RGI</span></b></a></li></ul
+></span></div></div></div><p style="margin-bottom:11px;"></p><div class="icePnlGrp botoes" id="frmhome
+:j_id185"><span class="iceOutTxt botoesSpan" id="frmhome:j_id186"><ul><span class="iceOutTxt" id="frmhome
+:j_id188"><li class="claro"><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id190" onblur="setFocus
+(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo&#39;);var form=formOf(this);form[&#39
+;frmhome:_idcl&#39;].value=&#39;frmhome:j_id190&#39;;form[&#39;retornoparam&#39;].value=&#39;VOLTAR&
+#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Voltar"><b><span>VOLTAR
+</span></b></a></li>
+<li class="claro"><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id196" onblur="setFocus(&#39
+;&#39;);" onclick="javascript:defineFocusTime(&#39;linkconteudo&#39;);var form=formOf(this);form[&#39
+;frmhome:_idcl&#39;].value=&#39;frmhome:j_id196&#39;;form[&#39;outcomeparam&#39;].value=&#39;LISTA&#39
+;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Prosseguir"><b><span>PROSSEGUIR
+</span></b></a></li></span></ul></span></div><input class="iceCmdBtn" id="frmhome:botaoNinjaGGC" name
+="frmhome:botaoNinjaGGC" onblur="setFocus(&#39;&#39;);" onclick="iceSubmit(form,this,event);return false
+;" onfocus="setFocus(this.id);" style="display: none" type="submit" value="" /><div class="icePnlPop
+ corePopupGGC" id="frmhome:popupRgi" name="frmhome:popupRgi" style="visibility: visible; position: absolute
+; top: 312px; left: 456px; z-index: 25002; padding-top: 90px;display:none;"><table cellpadding="0" cellspacing
+="0"><tr><td class="icePnlPopHdr corePopupGGCHdr" id="frmhome:popupRgiHandle"><div class="icePnlGrp"
+ id="frmhome:painelBotao"><a class="iceCmdLnk btnFecharPopup" href="javascript:;" id="frmhome:j_id220"
+ onblur="setFocus(&#39;&#39;);" onclick="var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&
+#39;frmhome:j_id220&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" style="color
+:#FFFFFF;" type="submit">Fechar</a></div></td><td class="icePnlPopHdr corePopupGGCHdr"><div style="width
+:1px;"></div></td></tr>
+<tr id="frmhome:popupRgi-tr"><td class="icePnlPopBody corePopupGGCBody" colspan="2"><div class="corporativo"
+><div class="boxLogin esquerda"><br /><h3>Gestão para Grandes Clientes</h3>
+<p><span class="aviso"></span>
+Este RGI está cadastrado no sistema Gestão para<br />
+            Grandes Clientes. Para prosseguir, informe seu login e senha.</p>
+<div class="container"><ul><li><label for="inpLogin">Login:</label><input class="w206" id="frmhome:inpLogin"
+ name="frmhome:inpLogin" type="text" value="" /><div class="clear"></div></li></ul>
+<ul><li><label for="inpSenha">Senha:</label><input class="w206" id="frmhome:inpSenha" name="frmhome:inpSenha"
+ onblur="setFocus(&#39;&#39;);" onfocus="setFocus(this.id);" onmousedown="this.focus();" type="password"
+ value="" /><div class="clear"></div></li></ul>
+<div class="containerLnks"><ul><li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id249" onblur
+="setFocus(&#39;&#39;);" onclick="var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome
+:j_id249&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" style="padding-left: 0px
+!important;"><span class="subMenuTabelaItem" style="font-size: 11px!important;">Esqueci minha senha<
+/span></a></li></ul></div>
+<div class="icePnlGrp botoes" id="frmhome:j_id252" style="clear: both!important;"><span class="iceOutTxt
+ botoesSpan" id="frmhome:j_id253"><ul><li class="claro"><a class="iceCmdLnk" href="javascript:;" id="frmhome
+:j_id256" onblur="setFocus(&#39;&#39;);" onclick="var form=formOf(this);form[&#39;frmhome:_idcl&#39;
+].value=&#39;frmhome:j_id256&#39;;form[&#39;retornoparam&#39;].value=&#39;VOLTAR&#39;;form[&#39;outcomeparam
+&#39;].value=&#39;LISTA&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Entrar"
+><b><span>ENTRAR</span></b></a></li></ul></span></div></div></div></div></td></tr></table>
+<script id="frmhome:popupRgiscript" language="JavaScript" type="text/javascript">Ice.modal.stop('frmhome
+:popupRgi');</script></div>]]></content></update><update address="footer" tag="div"><attribute name="class"
+><![CDATA[rodape]]></attribute><attribute name="id"><![CDATA[footer]]></attribute><content><![CDATA[
+<div class="icePnlGrp boxInnerRodape" id="frmhome:j_id265"><label class="iceOutLbl emergencias" id="frmhome
+:j_id266" title="Para emerg&ecirc;ncias ligue 195">Para emerg&ecirc;ncias ligue 195</label>
+<div class="icePnlGrp boxTelefones" id="frmhome:j_id268"><dl><dt><a href="#" title="Regi&atilde;o Metropolitana
+:0800 011 9911">Regi&atilde;o Metropolitana</a></dt>
+<dd>0800 011 9911</dd>
+<dt>Interior e litoral</dt>
+<dd>0800 055 195</dd>
+<dt>Ouvidoria</dt>
+<dd>0800 055 0565</dd>
+<dt>Arsesp</dt>
+<dd>0800 771 6883</dd></dl></div>
+<div class="icePnlGrp boxMenu" id="frmhome:j_id287"><ul><li class="conta" id="conta" onkeypress="focalizaMenuNavegacao
+(this);"><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id289" onblur="setFocus(&#39;&#39;);"
+ onclick="javascript:defineFocus(&#39;linkconteudo&#39;);var form=formOf(this);form[&#39;frmhome:_idcl
+&#39;].value=&#39;frmhome:j_id289&#39;;form[&#39;cdMenu&#39;].value=&#39;1&#39;;form[&#39;outcomeMenu
+&#39;].value=&#39;SUBMENUSUACONTA&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id
+);" title="Sua conta">Sua conta</a></li>
+<li id="ligacoes" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript:;"
+ id="frmhome:j_id293" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo
+&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id293&#39;;form[&#39
+;cdMenu&#39;].value=&#39;2&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENULIGACOESAGUAESGOTO&#39
+;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Liga&ccedil;&otilde;es de
+&aacute;gua e esgoto">Liga&ccedil;&otilde;es de &aacute;gua e esgoto</a></li>
+<li id="consertos" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript:;"
+ id="frmhome:j_id297" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo
+&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id297&#39;;form[&#39
+;cdMenu&#39;].value=&#39;3&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENUCONSERTOS&#39;;return iceSubmit
+(form,this,event);" onfocus="setFocus(this.id);" title="Consertos">Consertos</a></li>
+<li id="emergencias" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript
+:;" id="frmhome:j_id301" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo
+&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id301&#39;;form[&#39
+;cdMenu&#39;].value=&#39;4&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENUEMERGENCIAS&#39;;return
+ iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Emerg&ecirc;ncias">Emerg&ecirc;ncias
+</a></li>
+<li id="corporativo" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript
+:;" id="frmhome:j_id305" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo
+&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id305&#39;;form[&#39
+;cdMenu&#39;].value=&#39;5&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENUCORPORATIVO&#39;;return
+ iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title="Corporativo">Corporativo</a></li>
+<li id="dicas" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript:;" id
+="frmhome:j_id309" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo&
+#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id309&#39;;form[&#39;cdMenu
+&#39;].value=&#39;6&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENUDICASINFORMACOES&#39;;return iceSubmit
+(form,this,event);" onfocus="setFocus(this.id);" title="Dicas e informa&ccedil;&otilde;es">Dicas e informa
+&ccedil;&otilde;es</a></li></ul>
+<ul><li id="tarifas" onkeypress="focalizaMenuNavegacao(this);"><a class="iceCmdLnk" href="javascript
+:;" id="frmhome:j_id314" onblur="setFocus(&#39;&#39;);" onclick="javascript:defineFocus(&#39;linkconteudo
+&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;].value=&#39;frmhome:j_id314&#39;;form[&#39
+;cdMenu&#39;].value=&#39;7&#39;;form[&#39;outcomeMenu&#39;].value=&#39;SUBMENUTARIFAS&#39;;return iceSubmit
+(form,this,event);" onfocus="setFocus(this.id);" title="Tarifas">Tarifas</a></li>
+<li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id319" onblur="setFocus(&#39;&#39;);" onclick
+="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp.com.br/site/interna
+/politica_privacidade.aspx&#39; , &#39;_blank&#39;); return false;var form=formOf(this);form[&#39;frmhome
+:_idcl&#39;].value=&#39;frmhome:j_id319&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this
+.id);" onkeypress="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp
+.com.br/site/interna/politica_privacidade.aspx&#39; , &#39;_blank&#39;);" title="Pol&iacute;tica de privacidade"
+>Pol&iacute;tica de privacidade</a></li>
+<li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id322" onblur="setFocus(&#39;&#39;);" onclick
+="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp.com.br/site/fale-conosco
+/faq.aspx?secaoId=134&#39; , &#39;_blank&#39;); return false;var form=formOf(this);form[&#39;frmhome
+:_idcl&#39;].value=&#39;frmhome:j_id322&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this
+.id);" onkeypress="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp
+.com.br/site/fale-conosco/faq.aspx?secaoId=134&#39; , &#39;_blank&#39;);" title="Perguntas frequentes"
+>Perguntas frequentes</a></li>
+<li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id325" onblur="setFocus(&#39;&#39;);" onclick
+="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp.com.br/site/fale-conosco
+/Default.aspx?secaoId=71&#39; , &#39;_blank&#39;); return false;var form=formOf(this);form[&#39;frmhome
+:_idcl&#39;].value=&#39;frmhome:j_id325&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this
+.id);" onkeypress="javascript:defineFocus(&#39;linkconteudo&#39;); linkPopUp(&#39;http://site.sabesp
+.com.br/site/fale-conosco/Default.aspx?secaoId=71&#39; , &#39;_blank&#39;);" title="Fale conosco">Fale
+ conosco</a></li>
+<li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id328" onblur="setFocus(&#39;&#39;);" onclick
+="javascript:defineFocus(&#39;linkconteudo&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;]
+.value=&#39;frmhome:j_id328&#39;;form[&#39;outcomeMenu&#39;].value=&#39;CANAISATENDIMENTO&#39;;form[
+&#39;dsMenu&#39;].value=&#39;Canais de atendimento&#39;;return iceSubmit(form,this,event);" onfocus="setFocus
+(this.id);" title="Canais de atendimento">Canais de atendimento</a></li>
+<li><a class="iceCmdLnk" href="javascript:;" id="frmhome:j_id333" onblur="setFocus(&#39;&#39;);" onclick
+="javascript:defineFocus(&#39;linkconteudo&#39;);var form=formOf(this);form[&#39;frmhome:_idcl&#39;]
+.value=&#39;frmhome:j_id333&#39;;return iceSubmit(form,this,event);" onfocus="setFocus(this.id);" title
+="Mapa do site">Mapa do site</a></li></ul></div>
+<div class="icePnlGrp assinatura" id="frmhome:j_id335">Ag&ecirc;ncia Virtual Sabesp - Todos os direitos
+ reservados</div></div><script language="JavaScript" type="text/javascript">
+      defineFocus("linkconteudo");</script>]]></content></update><update address="frmhomehdnFldsDiv" tag
+="div"><attribute name="id"><![CDATA[frmhomehdnFldsDiv]]></attribute><attribute name="style"><![CDATA
+[display:none;]]></attribute><content><![CDATA[<input name="cdMenu" type="hidden" /><input name="outcomeMenu"
+ type="hidden" /><input name="retornoparam" type="hidden" /><input name="frmhome:_idcl" type="hidden"
+ /><input name="outcomeparam" type="hidden" /><input name="dsMenu" type="hidden" />]]></content></update
+><update address="IuxsMybtJgrGsupG18NtmA:11:dynamic-code" tag="script"><attribute name="id"><![CDATA
+[IuxsMybtJgrGsupG18NtmA:11:dynamic-code]]></attribute><attribute name="type"><![CDATA[text/javascript
+]]></attribute><content><![CDATA[menuAtivo(1);Ice.autoPosition.stop('frmhome:popupRgi');Ice.autoCentre
+.start('frmhome:popupRgi');Ice.iFrameFix.start('frmhome:popupRgi','/agenciavirtual/xmlhttp/blank');Ice
+.Focus.setFocus('frmhome:j_id163');//-1937770653]]></content></update></updates>
